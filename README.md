@@ -1,4 +1,4 @@
-# Sample2
+# Service-Example
 
 It will notify when this app receive notifications from Reco beacons
 
